@@ -1,0 +1,26 @@
+# Xcode
+## User settings
+xcuserdata/
+*.xcuserdatad/
+*.xcscmblueprint
+*.xccheckout
+
+## Build generated
+build/
+DerivedData/
+*.moved-aside
+*.xcuserstate
+
+## Backup files
+*.bak
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon\r
+._*
+
+## SPM / Swift
+.build/
+.swiftpm/
